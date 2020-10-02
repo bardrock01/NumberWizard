@@ -1,3 +1,4 @@
-# NumberWizard
- Unity Project
+### NumberWizard
+ 
+ A webGL build of Unity Project
 
