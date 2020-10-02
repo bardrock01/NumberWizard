@@ -1,4 +1,3 @@
 ### NumberWizard
  
- A webGL build of Unity Project
-
+ A WebGL build of Unity Project made for Udemy Course
